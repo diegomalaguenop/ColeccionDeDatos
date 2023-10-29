@@ -1,0 +1,14 @@
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\bin\Debug\net7.0\CollecionesDeDatos.exe
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\bin\Debug\net7.0\CollecionesDeDatos.deps.json
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\bin\Debug\net7.0\CollecionesDeDatos.runtimeconfig.json
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\bin\Debug\net7.0\CollecionesDeDatos.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\bin\Debug\net7.0\CollecionesDeDatos.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\CollecionesDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\CollecionesDeDatos.AssemblyInfoInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\CollecionesDeDatos.AssemblyInfo.cs
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\CollecionesDeDatos.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\CollecionesDeDatos.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\refint\CollecionesDeDatos.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\CollecionesDeDatos.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\CollecionesDeDatos.genruntimeconfig.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\CollecionesDeDatos\obj\Debug\net7.0\ref\CollecionesDeDatos.dll
